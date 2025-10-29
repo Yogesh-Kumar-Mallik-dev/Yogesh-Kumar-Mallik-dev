@@ -1,6 +1,6 @@
 # ⚙️ Yogesh Kumar Mallik  
 
-**Founder & Leader of [QiForge](https://qiforge.site)**  
+**Founder & Leader of [QiForge](https://qiforge.org)**  
 Frontend Developer • Student • Visionary Builder  
 
 > *“To be something that others aspire to be.”*  
