@@ -65,8 +65,8 @@ It’s not a classroom. It’s a **foundry** — where code, design, and innovat
 
 ### 🌐 Explore QiForge  
 If you want to see what we’re building:  
-🔗 [**QiForge.site**](https://qiforge.site)  
-🚀 [**Code Falcon Repository**](https://github.com/QiForge) *(coming soon)*  
+🔗 [**QiForge.org**](https://qiforge.org)  
+🚀 [**QiForge GitHub**](https://github.com/QiForge)  
 
 ---
 
