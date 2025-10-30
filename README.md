@@ -74,8 +74,7 @@ It’s not a classroom. It’s a **foundry** — where code, design, and innovat
 
 ### 📊 GitHub Stats
 
-| ![Yogesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yogesh-Kumar-Mallik-dev&show_icons=true&theme=github_dark) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yogesh-Kumar-Mallik-dev&layout=compact&theme=github_dark) |
-| ------------- | ------------- |
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yogesh-Kumar-Mallik-dev&layout=compact&theme=github_dark) 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Yogesh-Kumar-Mallik-dev&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
 
