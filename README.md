@@ -1,10 +1,11 @@
-# ⚙️ Yogesh Kumar Mallik  
+# ⚙️ Yogesh Kumar Mallik](https://yogeshkumarmallik.fun)  
 
 **Founder & Leader of [QiForge](https://qiforge.org)**  
 Frontend Developer • Student • Visionary Builder  
 
 > *“To be something that others aspire to be.”*  
 
+**See for Yourself --> [yogeshkumarmallik.fun](https://yogeshkumarmallik.fun)**
 ---
 
 ### 🧭 About Me  
