@@ -97,13 +97,20 @@ It’s not a classroom — it’s a **foundry** where code, design, and innovati
 <!-- 📊 GitHub Stats -->
 <h2 align="center">📊 GitHub Statistics</h2>
 
+<!-- Accurate Stats Card (includes private commits) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yogesh-Kumar-Mallik-dev&show_icons=true&theme=tokyonight" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yogesh-Kumar-Mallik-dev&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" width="45%">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Yogesh-Kumar-Mallik-dev&theme=tokyonight&hide_border=true" width="45%">
 </p>
 
+<!-- Realistic Contribution Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yogesh-Kumar-Mallik-dev&theme=tokyo-night" width="90%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yogesh-Kumar-Mallik-dev&theme=tokyo-night&hide_border=true" width="90%">
+</p>
+
+<!-- Advanced Metrics Card -->
+<p align="center">
+  <img src="https://metrics.lecoq.io/Yogesh-Kumar-Mallik-dev?template=classic&base.metadata=0&base.community=0&isocalendar=1&isocalendar.duration=full-year&config.timezone=Asia%2FKolkata" width="90%">
 </p>
 
 ---
@@ -117,6 +124,27 @@ It’s not a classroom — it’s a **foundry** where code, design, and innovati
 🚀 Built QiForge’s first real-world management system<br>
 ⚡ Spearheading a student ecosystem that blends learning with building
 </div>
+
+---
+
+<!-- 📜 Certificates & Achievements -->
+<h2 align="center">📜 Certificates & Achievements</h2>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXBvcWZxZm9udmVtcnk3dmtrd2R5c2pvbHdya25rcDU1b3VibG1oaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/W5qIUKvjFzPPOsCrfK/giphy.gif" width="160px" />
+  <br><br>
+  🧾 Here are some of my professional certifications and milestones!  
+</div>
+
+| 🏅 Certificate | 🏢 Provider | 🔗 Link |
+|----------------|-------------|---------|
+| **Certificate 1: Web Development Basics** | FreeCodeCamp | [View Certificate](#) |
+| **Certificate 2: Git & GitHub Mastery** | Great Learning | [View Certificate](#) |
+| **Certificate 3: JavaScript Foundations** | SoloLearn | [View Certificate](#) |
+| **Certificate 4: Frontend Design Principles** | Coursera | [View Certificate](#) |
+| **Certificate 5: C Programming Essentials** | Cisco Networking Academy | [View Certificate](#) |
+
+> 🎓 *More certificates coming soon — because learning never stops.*
 
 ---
 
