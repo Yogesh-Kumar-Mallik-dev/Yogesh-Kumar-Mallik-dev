@@ -126,7 +126,7 @@ It’s not a classroom — it’s a **foundry** where code, design, and innovati
 <h2 align="center">📜 Certificates & Achievements</h2>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXBvcWZxZm9udmVtcnk3dmtrd2R5c2pvbHdya25rcDU1b3VibG1oaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/W5qIUKvjFzPPOsCrfK/giphy.gif" width="160px" />
+
   <br><br>
   🧾 Here are some of my professional certifications and milestones!  
 </div>
