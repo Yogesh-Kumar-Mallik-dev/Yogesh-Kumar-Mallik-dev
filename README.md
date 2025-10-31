@@ -29,7 +29,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="45%" align="right" />
 
-I’m **Yogesh Kumar Mallik (born 2006)** — a student and self-taught developer who believes that ideas become real only through **discipline, collaboration, and code**.  
+I’m **Yogesh Kumar Mallik** — a student and self-taught developer who believes that ideas become real only through **discipline, collaboration, and code**.  
 
 I founded **QiForge**, not as a team, but as an **ideology** — a forge where ideas are shaped into technology, and people into creators.  
 As its **Founder & Leader**, I build systems, guide developers, and create opportunities for others to discover their potential through real work — not theory.
