@@ -1,6 +1,6 @@
 <!-- 🌌 Banner Section -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+  <img src="[https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif](https://github.com/Yogesh-Kumar-Mallik-dev/Yogesh-Kumar-Mallik-dev/blob/main/banner.jpeg?raw=true)" width="100%" />
   
   <!-- Typing Animation -->
   <a href="https://yogeshkumarmallik.fun">
