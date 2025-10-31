@@ -105,7 +105,7 @@ It’s not a classroom — it’s a **foundry** where code, design, and innovati
 <!-- Accurate Stats Card (includes private commits) -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yogesh-Kumar-Mallik-dev&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" width="45%">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Yogesh-Kumar-Mallik-dev&theme=tokyonight&hide_border=true" width="45%">
+  <img src="https://streak-stats.demolab.com?user=Yogesh-Kumar-Mallik-dev&theme=tokyonight&hide_border=true" width="400">
 </p>
 
 <!-- Realistic Contribution Graph -->
