@@ -78,8 +78,8 @@ It’s not a classroom — it’s a **foundry** where code, design, and innovati
 ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg)
 
 #### 🎮 Game Dev & IDE
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Godot/godot1.svg)
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/VSCode/vscode3.svg)
+![](https://skillicons.dev/icons?i=godot)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode3.svg)
 
 ---
 
