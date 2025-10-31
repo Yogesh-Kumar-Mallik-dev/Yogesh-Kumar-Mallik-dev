@@ -108,11 +108,6 @@ It’s not a classroom — it’s a **foundry** where code, design, and innovati
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yogesh-Kumar-Mallik-dev&theme=tokyo-night&hide_border=true" width="90%">
 </p>
 
-<!-- Advanced Metrics Card -->
-<p align="center">
-  <img src="https://metrics.lecoq.io/Yogesh-Kumar-Mallik-dev?template=classic&base.metadata=0&base.community=0&isocalendar=1&isocalendar.duration=full-year&config.timezone=Asia%2FKolkata" width="90%">
-</p>
-
 ---
 
 <!-- 🏆 QiForge Achievements -->
