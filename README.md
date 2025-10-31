@@ -78,7 +78,12 @@ It’s not a classroom — it’s a **foundry** where code, design, and innovati
 ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg)
 
 #### 🎮 Game Dev & IDE
-![](https://skillicons.dev/icons?i=godot)
+<!-- <div >
+  <a href="https://godotengine.org/">
+    <img src="./godot.svg" alt="Godot Engine" width="150" height="25">
+  </a>
+</div> -->
+
 ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode3.svg)
 
 ---
