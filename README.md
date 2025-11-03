@@ -127,24 +127,19 @@ It’s not a classroom — it’s a **foundry** where code, design, and innovati
 
 ---
 
-<!-- 📜 Certificates & Achievements -->
-<h2 align="center">📜 Certificates & Achievements</h2>
+## 🎓 Certification
 
-<div align="center">
+### 🧠 Responsive Web Design Developer Certification  
+**Issued by:** [freeCodeCamp.org](https://www.freecodecamp.org/)  
+**Date:** November 3, 2025  
+**Hours:** ~300 hours of coursework  
 
-  <br><br>
-  🧾 Here are some of my professional certifications and milestones!  
-</div>
+[![Responsive Web Design Certificate](certificate/yogesh-webdev-certificate.png)](https://www.freecodecamp.org/certification/yogesh-kumar-mallik-dev/responsive-web-design)
 
-| 🏅 Certificate | 🏢 Provider | 🔗 Link |
-|----------------|-------------|---------|
-| **Certificate 1: Web Development Basics** | FreeCodeCamp | [View Certificate](#) |
-| **Certificate 2: Git & GitHub Mastery** | Great Learning | [View Certificate](#) |
-| **Certificate 3: JavaScript Foundations** | SoloLearn | [View Certificate](#) |
-| **Certificate 4: Frontend Design Principles** | Coursera | [View Certificate](#) |
-| **Certificate 5: C Programming Essentials** | Cisco Networking Academy | [View Certificate](#) |
 
-> 🎓 *More certificates coming soon — because learning never stops.*
+🔗 **Verify Certificate:**  
+[https://www.freecodecamp.org/certification/yogesh-kumar-mallik-dev/responsive-web-design](https://www.freecodecamp.org/certification/yogesh-kumar-mallik-dev/responsive-web-design)
+
 
 ---
 
