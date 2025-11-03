@@ -134,7 +134,7 @@ It’s not a classroom — it’s a **foundry** where code, design, and innovati
 **Date:** November 3, 2025  
 **Hours:** ~300 hours of coursework  
 
-[![Responsive Web Design Certificate](certificate/yogesh-webdev-certificate.png)](https://www.freecodecamp.org/certification/yogesh-kumar-mallik-dev/responsive-web-design)
+[![Responsive Web Design Certificate](certificates/yogesh-webdev-certificate.png)](https://www.freecodecamp.org/certification/yogesh-kumar-mallik-dev/responsive-web-design)
 
 
 🔗 **Verify Certificate:**  
