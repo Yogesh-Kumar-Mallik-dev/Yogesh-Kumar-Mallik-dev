@@ -136,10 +136,15 @@ It’s not a classroom — it’s a **foundry** where code, design, and innovati
 
 [![Responsive Web Design Certificate](certificates/yogesh-webdev-certificate.png)](https://www.freecodecamp.org/certification/yogesh-kumar-mallik-dev/responsive-web-design)
 
+### ⚙️ JavaScript Algorithms and Data Structures Certification  
+**Issued by:** [freeCodeCamp.org](https://www.freecodecamp.org/)  
+**Date:** November 3, 2025  
+**Hours:** ~300 hours of coursework  
+
+[![JavaScript Algorithms and Data Structures Certificate](certificates/yogesh-js-certificate.png)](https://www.freecodecamp.org/certification/yogesh-kumar-mallik-dev/javascript-algorithms-and-data-structures)
 
 🔗 **Verify Certificate:**  
-[https://www.freecodecamp.org/certification/yogesh-kumar-mallik-dev/responsive-web-design](https://www.freecodecamp.org/certification/yogesh-kumar-mallik-dev/responsive-web-design)
-
+[https://www.freecodecamp.org/certification/yogesh-kumar-mallik-dev/javascript-algorithms-and-data-structures](https://www.freecodecamp.org/certification/yogesh-kumar-mallik-dev/javascript-algorithms-and-data-structures)
 
 ---
 
