@@ -147,7 +147,7 @@ It’s not a classroom — it’s a **foundry** where code, design, and innovati
 [![JavaScript Algorithms and Data Structures Certificate](certificates/yogesh-js-certificate.png)](https://www.freecodecamp.org/certification/yogesh-kumar-mallik-dev/javascript-algorithms-and-data-structures)
 
 🔗 **Verify Certificate:**  
-[https://www.freecodecamp.org/certification/yogesh-kumar-mallik-dev/javascript-algorithms-and-data-structures](https://www.freecodecamp.org/certification/yogesh-kumar-mallik-dev/javascript-algorithms-and-data-structures)
+[https://www.freecodecamp.org/certification/yogesh-kumar-mallik-dev/javascript-algorithms-and-data-structures](https://freecodecamp.org/certification/yogesh-kumar-mallik-dev/javascript-algorithms-and-data-structures-v8)
 
 ---
 
