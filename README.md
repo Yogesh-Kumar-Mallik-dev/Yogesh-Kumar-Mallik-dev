@@ -1,178 +1,43 @@
-<!-- 🌌 Banner Section -->
-<div align="center">
-  <img src="[https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif](https://github.com/Yogesh-Kumar-Mallik-dev/Yogesh-Kumar-Mallik-dev/blob/main/banner.jpeg?raw=true)" width="100%" />
-  
-  <!-- Typing Animation -->
-  <a href="https://yogeshkumarmallik.fun">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E7FF&center=true&vCenter=true&width=600&lines=Founder+%26+Leader+of+QiForge;Frontend+%26+Aspiring+Full-Stack+Developer;Forging+Ideas+into+Innovation" alt="Typing SVG" />
-  </a>
+# Yogesh Kumar Mallik
 
-  <!-- Profile Buttons -->
-  <p align="center">
-    <a href="https://yogeshkumarmallik.fun">
-      <img src="https://img.shields.io/badge/🌐%20Portfolio-yogeshkumarmallik.fun-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
-    </a>
-    <a href="https://qiforge.org">
-      <img src="https://img.shields.io/badge/⚙️%20QiForge-qiforge.org-black?style=for-the-badge&logo=vercel&logoColor=white" />
-    </a>
-    <a href="https://www.linkedin.com/in/yogesh-kumar-mallik-060895390">
-      <img src="https://img.shields.io/badge/💼%20LinkedIn-Yogesh%20Kumar%20Mallik-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-  </p>
-</div>
+Full-stack developer and game systems builder.
+
+I focus on building clean, scalable systems — from web applications to modular game architectures.
 
 ---
 
-<!-- 🧭 About Section -->
-<h2 align="center">🧭 About Me</h2>
+## Work
 
-<div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="45%" align="right" />
-
-I’m **Yogesh Kumar Mallik** — a student and self-taught developer who believes that ideas become real only through **discipline, collaboration, and code**.  
-
-I founded **QiForge**, not as a team, but as an **ideology** — a forge where ideas are shaped into technology, and people into creators.  
-As its **Founder & Leader**, I build systems, guide developers, and create opportunities for others to discover their potential through real work — not theory.
-
-> **QiForge is my reflection.**  
-> It’s where I lead, teach, and build alongside those who dare to create.
-</div>
+* Component-based game systems (LÖVE / Lua)
+* Full-stack web development (Node.js, React, MongoDB)
+* System design and architecture
 
 ---
 
-<!-- 🔥 QiForge Section -->
-<h2 align="center">🔥 QiForge at a Glance</h2>
+## Current Focus
 
-<div align="center">
-  <img src="https://media.tenor.com/QNPKQ9gx8yMAAAAi/forge.gif" width="200px" />
-</div>
-
-**QiForge** is a student-driven organization that transforms curiosity into creation.  
-It’s not a classroom — it’s a **foundry** where code, design, and innovation collide.  
-
-🧩 **Divisions I Lead:**
-- **Code Lead** – Core development team building QiForge’s main systems.  
-- **Code Falcon** – Project division creating real-world web systems (*Hostel & Mess Management System*).  
-- **Community Mentorship** – Informal sessions guiding students entering tech.  
-
-💠 **Core Principle:**  
-> “We build not for grades, not for fame — but to become something worth following.”
+* Game engine architecture
+* JavaScript and backend systems
+* Scalable project structure
 
 ---
 
-<!-- 🧠 Tech Stack -->
-<h2 align="center">🧠 Tech Stack</h2>
+## Projects
 
-#### 🧩 Frontend
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg)
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg)
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg)
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg)
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg)
-
-#### ⚙️ Backend & Tools
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg)
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express3.svg)
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb1.svg)
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg)
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg)
-
-#### 🎮 Game Dev & IDE
-<!-- <div >
-  <a href="https://godotengine.org/">
-    <img src="./godot.svg" alt="Godot Engine" width="150" height="25">
-  </a>
-</div> -->
-
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode3.svg)
+* **Torch of Humanity** — modular 2D game system
+* **QiForge** — organization and project ecosystem
+* **Hostel & Mess Management System** — full-stack college solution
 
 ---
 
-<!-- 🧱 Projects -->
-<h2 align="center">🧱 My Work</h2>
+## Philosophy
 
-| 🚀 Project | 💬 Description | 🧠 Role |
-|-------------|----------------|---------|
-| **QiForge** | My brainchild — a student-led ecosystem built to empower, educate, and evolve. | Founder & Leader |
-| **Hostel & Mess Management System** | A real-world web admin project under Code Falcon’s initiative. | Lead Developer |
-| **Portfolio Website** | My personal digital identity built from scratch with glassmorphism. | Designer & Developer |
+Build systems that scale.
+Keep things simple.
+Finish what you start.
 
 ---
 
-<!-- 📊 GitHub Stats -->
-<h2 align="center">📊 GitHub Statistics</h2>
+## Contact
 
-<!-- Accurate Stats Card (includes private commits) -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yogesh-Kumar-Mallik-dev&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" width="45%">
-  <img src="https://streak-stats.demolab.com?user=Yogesh-Kumar-Mallik-dev&theme=tokyonight&hide_border=true" width="400">
-</p>
-
-<!-- Realistic Contribution Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yogesh-Kumar-Mallik-dev&theme=tokyo-night&hide_border=true" width="90%">
-</p>
-
----
-
-<!-- 🏆 QiForge Achievements -->
-<h2 align="center">🏆 QiForge Milestones</h2>
-
-<div align="center">
-🌱 Mentored 5+ new developers through QiForge Community<br>
-💠 Established <b>Code Lead</b> & <b>Code Falcon</b> divisions<br>
-🚀 Built QiForge’s first real-world management system<br>
-⚡ Spearheading a student ecosystem that blends learning with building
-</div>
-
----
-
-## 🎓 Certification
-
-### 🧠 Responsive Web Design Developer Certification  
-**Issued by:** [freeCodeCamp.org](https://www.freecodecamp.org/)  
-**Date:** November 3, 2025  
-**Hours:** ~300 hours of coursework  
-
-[![Responsive Web Design Certificate](certificates/yogesh-webdev-certificate.png)](https://www.freecodecamp.org/certification/yogesh-kumar-mallik-dev/responsive-web-design)
-
-🔗 **Verify Certificate:**  
-[https://www.freecodecamp.org/certification/yogesh-kumar-mallik-dev/responsive-web-design](https://www.freecodecamp.org/certification/yogesh-kumar-mallik-dev/responsive-web-design)
-
-### ⚙️ JavaScript Algorithms and Data Structures Certification  
-**Issued by:** [freeCodeCamp.org](https://www.freecodecamp.org/)  
-**Date:** November 3, 2025  
-**Hours:** ~300 hours of coursework  
-
-[![JavaScript Algorithms and Data Structures Certificate](certificates/yogesh-js-certificate.png)](https://www.freecodecamp.org/certification/yogesh-kumar-mallik-dev/javascript-algorithms-and-data-structures)
-
-🔗 **Verify Certificate:**  
-[https://www.freecodecamp.org/certification/yogesh-kumar-mallik-dev/javascript-algorithms-and-data-structures](https://freecodecamp.org/certification/yogesh-kumar-mallik-dev/javascript-algorithms-and-data-structures-v8)
-
----
-
-<!-- ⚡ Philosophy -->
-<h2 align="center">⚡ My Philosophy</h2>
-
-<p align="center">
-  <img src="https://media.tenor.com/0Wfg8vV-0bIAAAAC/thor-lightning.gif" width="120px" />
-</p>
-
-> “Leadership isn’t given. It’s built — one decision, one project, and one team at a time.”  
->
-> *I have the freedom to forge creativity.*
-
----
-
-<!-- 🌐 Footer -->
-<div align="center">
-  <img src="https://media.tenor.com/ivIQbWI5qe8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="300px" /><br>
-  <b>© 2025 Yogesh Kumar Mallik</b><br>
-  Founder & Leader of <b>QiForge</b><br>
-  “To be something that others aspire to be.”
-</div>
-
----
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+* GitHub: https://github.com/Yogesh-Kumar-Mallik-dev
